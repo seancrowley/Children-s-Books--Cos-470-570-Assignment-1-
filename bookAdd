@@ -1,0 +1,3 @@
+new Book(title: 'The Giving Tree', author: 'Shel Silverstein', description: '', ISBN: '',
+    minimumGradeLevel: '1', maximumGradeLevel: '4', language: 'English',
+    category: 'General Leisure Reading').save()

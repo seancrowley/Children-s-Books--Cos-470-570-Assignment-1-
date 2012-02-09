@@ -1,0 +1,15 @@
+02-07 07:23:44 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: NULL not allowed for column "CREATED"; SQL statement:
+insert into book (id, version, isbn, author, category, description, language, maximum_grade_level, minimum_grade_level, title) values (null, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90006-147]
+02-07 07:25:22 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: NULL not allowed for column "CREATED"; SQL statement:
+insert into book (id, version, isbn, author, category, description, language, maximum_grade_level, minimum_grade_level, title) values (null, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90006-147]
+02-07 08:05:49 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: NULL not allowed for column "CREATED"; SQL statement:
+insert into book (id, version, isbn, author, category, description, language, maximum_grade_level, minimum_grade_level, title) values (null, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90006-147]
+02-07 08:28:02 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: NULL not allowed for column "CREATED"; SQL statement:
+insert into book (id, version, isbn, author, category, description, language, maximum_grade_level, minimum_grade_level, title) values (null, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90006-147]
+02-08 21:20:36 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: NULL not allowed for column "CREATED"; SQL statement:
+insert into book (id, version, isbn, author, category, description, language, maximum_grade_level, minimum_grade_level, title) values (null, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90006-147]

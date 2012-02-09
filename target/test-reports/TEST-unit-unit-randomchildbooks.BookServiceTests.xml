@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="sean-crowleys-macbook.local" name="randomchildbooks.BookServiceTests" tests="1" time="0.438" timestamp="2012-02-09T07:13:04">
+  <properties />
+  <testcase classname="randomchildbooks.BookServiceTests" name="testSomething" time="0.081" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+Testsuite: randomchildbooks.BookServiceInterationTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.184 sec
+------------- Standard Output ---------------
+--Output from testStaticBook--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testStaticBook--
+------------- ---------------- ---------------
+
+Testcase: testStaticBook took 0.182 sec

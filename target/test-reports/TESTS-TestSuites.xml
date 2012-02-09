@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="sean-crowleys-macbook.local" id="0" name="BookServiceInterationTests" package="randomchildbooks" tests="1" time="0.184" timestamp="2012-02-09T07:13:17">
+      <properties />
+
+      <testcase classname="randomchildbooks.BookServiceInterationTests" name="testStaticBook" time="0.182" />
+
+      <system-out><![CDATA[--Output from testStaticBook--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testStaticBook--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-crowleys-macbook.local" id="1" name="BookControllerTests" package="randomchildbooks" tests="1" time="2.87" timestamp="2012-02-09T07:13:01">
+      <properties />
+
+      <testcase classname="randomchildbooks.BookControllerTests" name="testSomething" time="2.705" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-crowleys-macbook.local" id="2" name="BookServiceTests" package="randomchildbooks" tests="1" time="0.438" timestamp="2012-02-09T07:13:04">
+      <properties />
+
+      <testcase classname="randomchildbooks.BookServiceTests" name="testSomething" time="0.081" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sean-crowleys-macbook.local" id="3" name="BookTests" package="randomchildbooks" tests="1" time="0.462" timestamp="2012-02-09T07:13:05">
+      <properties />
+
+      <testcase classname="randomchildbooks.BookTests" name="testSomething" time="0.456" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
